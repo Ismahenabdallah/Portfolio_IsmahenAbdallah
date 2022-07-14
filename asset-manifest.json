@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Portfolio_IsmahenAbdallah/static/css/main.3cbf31d0.css",
+    "main.js": "/Portfolio_IsmahenAbdallah/static/js/main.ff7575bd.js",
+    "static/media/IMG20220203123546.jpg": "/Portfolio_IsmahenAbdallah/static/media/IMG20220203123546.283261e3db59cd3af512.jpg",
+    "static/media/Image4.png": "/Portfolio_IsmahenAbdallah/static/media/Image4.5b869b189cd5e636a8ce.png",
+    "static/media/Image2.png": "/Portfolio_IsmahenAbdallah/static/media/Image2.9ddb7219e1d3eb48e6a6.png",
+    "static/media/Image1.png": "/Portfolio_IsmahenAbdallah/static/media/Image1.7d6f53da4fe02745a48d.png",
+    "static/media/Image5.png": "/Portfolio_IsmahenAbdallah/static/media/Image5.90d70fa599270734dda4.png",
+    "static/media/Image3.png": "/Portfolio_IsmahenAbdallah/static/media/Image3.7567d002444dddc16733.png",
+    "static/media/bootstrap.png": "/Portfolio_IsmahenAbdallah/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/mongodb.png": "/Portfolio_IsmahenAbdallah/static/media/mongodb.c9d3f247fffcdebc2bdf.png",
+    "index.html": "/Portfolio_IsmahenAbdallah/index.html",
+    "static/media/getFetch.cjs": "/Portfolio_IsmahenAbdallah/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.3cbf31d0.css.map": "/Portfolio_IsmahenAbdallah/static/css/main.3cbf31d0.css.map",
+    "main.ff7575bd.js.map": "/Portfolio_IsmahenAbdallah/static/js/main.ff7575bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cbf31d0.css",
+    "static/js/main.ff7575bd.js"
+  ]
+}
