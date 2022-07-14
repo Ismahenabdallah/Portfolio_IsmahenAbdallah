@@ -48,7 +48,7 @@ const Header = () => {
         <div className='hidden lg:block'>
           <Socials />
         </div>
-      
+         {/* langage */}
         <div className="flex justify-center">
   {/*<div >
     <select onChange={onChangeLang} className="form-select 
